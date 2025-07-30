@@ -1,3 +1,6 @@
+from dotenv import load_dotenv
+load_dotenv()
+
 #!/usr/bin/env python3
 """
 YukkiChatBot - Telegram Bot for Anonymous Feedback Collection
